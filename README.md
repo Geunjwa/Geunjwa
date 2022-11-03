@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Min-Jwageun
+- 👋 Hi, I’m @Geunjwa
 - 👀 I’m interested in ...
 
 C# (.NetFrameWork)
